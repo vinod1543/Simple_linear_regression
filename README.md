@@ -30,16 +30,17 @@ This project demonstrates:
 2.Open the Jupyter Notebook file (simple_linear_reg.ipynb) in your preferred environment (e.g., Jupyter Notebook, JupyterLab, VS Code).
 
 3.Run the notebook cells step-by-step to:
-  .   Load and preprocess the dataset.
-  .   Train the Simple Linear Regression model.
-  .   Evaluate and visualize the results.
+  -   Load and preprocess the dataset.
+  -   Train the Simple Linear Regression model.
+  -   Evaluate and visualize the results.
 
 
 📈 Results
 The regression model predicts the dependent variable based on the independent variable with visualizations like:
 
- . Scatter plots with the regression line.
- . Residual analysis.
+ - Scatter plots with the regression line.
+ 
+ - Residual analysis.
 
  🤝 Contributions
  Contributions are welcome! Feel free to submit a pull request or open an issue for suggestions and improvements.
@@ -48,7 +49,8 @@ The regression model predicts the dependent variable based on the independent va
  This project is licensed under the MIT License. See the LICENSE file for details.
 
  📝 Acknowledgements
-  .  Inspired by the simplicity of linear regression in machine learning.
-  .  Built using popular Python libraries for data analysis and modeling.
+  -  Inspired by the simplicity of linear regression in machine learning.
+  
+  -  Built using popular Python libraries for data analysis and modeling.
      
 
